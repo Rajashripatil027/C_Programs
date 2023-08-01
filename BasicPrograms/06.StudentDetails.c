@@ -7,7 +7,7 @@ int main()
         int RollNo = 0;
         float Per = 0.0;
 
-        printf("\n\n\t Enter Student Details");
+        printf("\n\n\t Enter Student Details = ");
 
         //Accept Student Details
 
