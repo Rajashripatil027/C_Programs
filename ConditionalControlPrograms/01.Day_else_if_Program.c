@@ -9,7 +9,7 @@ int main()
 
         printf("\n\t Let's Start");
 
-        printf("\n\n\t=================================");
+        printf("\n\n\t================================");
 
         printf("\n\t Enter Number In 1-7 To See Day = ");
         scanf("%d",&Num);
