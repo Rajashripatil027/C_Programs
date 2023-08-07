@@ -7,7 +7,7 @@ int main()
 
         printf("\n\n\t All Week Day");
 
-        printf("\n\t Let's Start");
+        printf("\n\t Let's Start ");
 
         printf("\n\n\t================================");
 
