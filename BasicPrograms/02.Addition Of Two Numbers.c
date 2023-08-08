@@ -11,7 +11,7 @@ int main()
         printf("\n Enter a Second Number = ");
         scanf("%d",&Num2);
 
-        printf("\n =========================================");
+        printf("\n=========================================");
 
         Sum = Num1 + Num2;
 
