@@ -3,9 +3,9 @@ ji#include<stdio.h>
 
 int main()
 {
-        printf("\n\tMy First Program");
+        printf("\n\t My First Program");
 
-        printf("\n\tHello World");
+        printf("\n\t Hello World");
 
         getch();
         return 0;
