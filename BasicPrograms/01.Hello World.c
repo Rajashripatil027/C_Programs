@@ -3,9 +3,9 @@
 
 int main()
 {
-        printf("\n\t My First Program");
+        printf("\n\tMy First Program");
 
-        printf("\n\t Hello World");
+        printf("\n\tHello World");
   
         getch();
         return 0;
